@@ -1,0 +1,25 @@
+{
+  "name": "psqi-score-calculator",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "pinyin-pro": "^3.18.0",
+    "chart.js": "^4.4.0",
+    "read-excel-file": "^5.6.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "vite": "^4.0.0",
+    "@types/react": "^18.0.0",
+    "@types/react-dom": "^18.0.0",
+    "@vitejs/plugin-react": "^4.0.0",
+    "@types/node": "^18.0.0"
+  }
+}
